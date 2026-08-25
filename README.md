@@ -1,2 +1,26 @@
-Last updated: 2026-08-25 13:29:58 WIB
-Last updated: 2026-08-25 13:32:00 WIB
+# payrollhtml
+
+
+
+## 📋 Overview
+
+This repository contains **7 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-25 13:41:38 WIB*
